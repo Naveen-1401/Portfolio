@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Users/cogoport/first-app-r"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Work"
+	}
+}
